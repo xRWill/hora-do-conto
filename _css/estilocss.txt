@@ -1,0 +1,38 @@
+
+        @charset "UTF-8";
+        body
+        h1{
+            font-family: Arial;
+            font-size: 20;
+            color:maroon;
+         }
+
+        h2{
+            font-family: arial;
+            font-size: 15;
+            color:maroon; 
+        }
+
+        h3 {
+            font-family: arial;
+            font-size: 7;
+            color: maroon; 
+        
+        }
+
+        p   {
+            text-align: justify;
+            text-indent: 50px; 
+             }
+
+
+             body {
+                background-color: chocolate;
+            }
+
+
+
+
+ 
+
+
